@@ -6,6 +6,6 @@
             "golfguy\\HelloWorldPackage2\\": "src/"
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "alpha",
     "prefer-stable": true
 }
