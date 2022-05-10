@@ -1,0 +1,11 @@
+{
+    "name": "golfguy/hello-world-package2",
+    "description": "A hello world composer private package.",
+    "autoload": {
+        "psr-4": {
+            "golfguy\\HelloWorldPackage2\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
